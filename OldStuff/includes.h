@@ -1,0 +1,20 @@
+#pragma once
+#include "Utils/Blink.h"
+
+//#include "TestPlans/genericCommonStuff.h"
+//#include "TestPlans/testTom.h"
+//#include "TestPlans/testWGM8bits.h"
+//#include "TestPlans/testWGM16bits.h"
+//#include "TestPlans/testTimer8SingleOCR.h"
+//#include "TestPlans/testPWM8bits.h"
+#include "TestPlans/testHD44780.h"
+//#include "TestPlans/testTWIMaster.h"
+//#include "TestPlans/testTWISlave.h"
+//#include "TestPlans/testSPISlave.h"
+//#include "TestPlans/testSPIMaster.h"
+#include "TestPlans/testUSARTSlave.h"
+//#include "TestPlans/testUSARTMaster.h"
+//#include "TestPlans/testPPM.h"
+//#include "TestPlans/testA2D.h"
+
+//#include "ATMELTestFunctions.h"
